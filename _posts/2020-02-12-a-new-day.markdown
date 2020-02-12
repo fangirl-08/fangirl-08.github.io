@@ -2,9 +2,9 @@
 layout: post
 title: A New Day
 date: 2020-02-12 16:19
-published: false
+published: true
 header_feature_image:
 caption:
-pinned: 
+pinned:
 tags:    # use [tag1,tag2]
 ---
